@@ -1,3 +1,5 @@
+This is the code of the paper "On the Limitations of Elo: Real-World Games, are Transitive, not Additive" (https://arxiv.org/abs/2206.12301).
+
 First, run `pip install -e .` in this folder to install the package and its dependency.
 
 Then one can launch 2 scripts which run in minutes:
@@ -14,3 +16,12 @@ For Figure 7 one should go to the `expes/chess_starcraft` folder and successivel
 - `main_chess.py`
 - `main_starcraft.py`
 - `figure_chess_starcraft.py`
+
+If you found this code useful, please cite
+
+@article{bertrand2022limitations,
+  title={On the Limitations of Elo: Real-World Games, are Transitive, not Additive},
+  author={Bertrand, Quentin and Czarnecki, Wojciech Marian and Gidel, Gauthier},
+  journal={arXiv preprint arXiv:2206.12301},
+  year={2022}
+}
