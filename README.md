@@ -1,4 +1,4 @@
-This is the code of the paper "On the Limitations of Elo: Real-World Games, are Transitive, not Additive" (https://arxiv.org/abs/2206.12301).
+This is the code of the paper "On the Limitations of Elo: Real-World Games, are Transitive, not Additive" accepted to AISTATS 2023 (https://arxiv.org/abs/2206.12301).
 
 First, run `pip install -e .` in this folder to install the package and its dependency.
 
